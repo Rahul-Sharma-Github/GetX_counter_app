@@ -1,16 +1,16 @@
 # getx_counter_app
 
-A new Flutter project.
+Counter App using GetX State Management 
 
-## Getting Started
+## 
+<img src="https://github.com/Rahul-Sharma-Github/GetX_counter_app/assets/64002004/f74e1c31-efc9-44f1-be9c-24d725557c59" width="393" height="852">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 
+<img src="https://github.com/Rahul-Sharma-Github/GetX_counter_app/assets/64002004/22f52bc2-8be0-44ea-a89b-c6eee1ceef28" width="393" height="852">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 
+<img src="https://github.com/Rahul-Sharma-Github/GetX_counter_app/assets/64002004/66cffc44-0cc2-4be2-974e-1cc92c1df2b9" width="393" height="852">
+
+
